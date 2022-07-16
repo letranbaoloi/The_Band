@@ -353,7 +353,7 @@ html {
     line-height: 1.5;
 }
 
-.contact-info i[class*="ti-"] {
+.contact-info i[class*="fa-"] {
     width: 30px; 
     display: inline-block; 
 }
